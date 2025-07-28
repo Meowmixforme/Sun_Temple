@@ -6,6 +6,10 @@ Sun Temple is a two-player Python board game created as a foundation year assess
 
 Players take turns moving along a 40-space board, choosing moves from a limited set. Each space may contain a ruby, emerald, diamond, sapphire, or glass bead. The objective is to collect as many valuable gems as possible and minimise the number of glass beads collected. The game ends when the player counter leaves the board, and the player with the highest score wins.
 
+<img width="500" height="500" alt="Screenshot 2025-07-28 103613" src="https://github.com/user-attachments/assets/357e65ef-c905-44ca-b051-2bc822b48ece" />
+
+
+
 ## How to Play
 
 1. Ensure you have [Python 3](https://www.python.org/downloads/) installed.

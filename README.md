@@ -2,6 +2,9 @@
 
 Sun Temple is a two-player Python board game created as a foundation year assessment project by James Fothergill. The game challenges players to traverse a randomly-seeded board, collecting valuable gems and avoiding glass beads, with the aim of achieving the highest score by the end of the board.
 
+<img width="500" height="500" alt="freepik__the-style-is-modern-and-it-is-a-detailed-illustrat__84450" src="https://github.com/user-attachments/assets/9f168370-c37c-4010-8d03-3f244e350e6f" />
+
+
 ## Overview
 
 Players take turns moving along a 40-space board, choosing moves from a limited set. Each space may contain a ruby, emerald, diamond, sapphire, or glass bead. The objective is to collect as many valuable gems as possible and minimise the number of glass beads collected. The game ends when the player counter leaves the board, and the player with the highest score wins.
